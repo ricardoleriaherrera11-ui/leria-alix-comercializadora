@@ -1,0 +1,25 @@
+LERIA ALIX FICHAJE — versión web privada/local
+
+CONTENIDO
+- index.html: aplicación lista para publicar como sitio estático HTTPS.
+- No necesita Claude ni base de datos externa.
+- Los registros y el acceso se guardan en el almacenamiento del navegador
+  del dispositivo (localStorage). No hay sincronización entre dispositivos.
+
+PUBLICAR GRATIS CON NETLIFY DROP
+1. Abre https://app.netlify.com/drop desde un ordenador (o desde el iPhone).
+2. Arrastra la carpeta descomprimida "leria_alix_web" a la zona de carga.
+   Si lo haces desde iPhone, puede ser más sencillo guardar el ZIP en Archivos
+   y usar un navegador/ordenador para subir la carpeta descomprimida.
+3. Netlify generará una dirección HTTPS. Ábrela en Safari.
+4. En Safari: Compartir > Añadir a pantalla de inicio.
+
+IMPORTANTE
+- Usa siempre el mismo enlace y el mismo navegador del iPhone.
+- No borres los datos de sitios web ni uses navegación privada.
+- Si publicas otra versión en el mismo dominio, los datos locales suelen
+  mantenerse porque el dominio no cambia.
+- Los datos no se guardan en la nube ni se comparten con otros dispositivos.
+- Descarga el CSV periódicamente como copia de seguridad.
+- La contraseña protege el acceso dentro de la app; no cifra los registros
+  guardados en el navegador.
